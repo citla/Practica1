@@ -9,7 +9,7 @@ Button b1,b2;
 
 public Preguntas() {
 
-f=new Frame("Preguntas"); 
+f=new Frame("citlalli"); 
 b1=new Button("Siguiente"); 
 b2=new Button("Salir");
 f.setLayout(new FlowLayout()); 
