@@ -31,7 +31,7 @@ c.add("Mas de 4");
 c.add("Ninguno");
 
 
-h.add("Romance"); 
+h.add("olis"); 
 h.add("Ación"); 
 h.add("Aventura");
 h.add("Suspenso, Terror");
